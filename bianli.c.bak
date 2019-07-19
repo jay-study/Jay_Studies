@@ -4,7 +4,6 @@
 //程序题最后一题遍历数组
 int fun(int a[][CL])
 {
-	int flag;
     int i,j,min;
     min=a[0][0];
     for(i=0;i<RW;i++)
